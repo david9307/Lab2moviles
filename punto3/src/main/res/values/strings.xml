@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Punto3</string>
+    <string name="cuadro">Cuadro</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="circulo">Circulo</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="calcular">Calcular Area</string>
+</resources>
